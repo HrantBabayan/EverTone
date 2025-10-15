@@ -676,6 +676,15 @@ label {
     .search {
         width: 100%;
     }
+    .searchlabel{
+        right:20%;
+    }
+
+    .list>li:nth-child(3):hover .list2 {
+    height: 210px;
+    opacity: 1;
+    padding: 10px;
+}
 
     .search-container>div {
         width: 100%;
@@ -700,5 +709,6 @@ label {
     footer {
         flex-direction: column;
     }
+
 
 }
