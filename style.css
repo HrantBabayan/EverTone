@@ -675,6 +675,7 @@ label {
 
     .search {
         width: 100%;
+        font-size:18px;
     }
     .searchlabel{
         right:20%;
@@ -712,3 +713,4 @@ label {
 
 
 }
+
