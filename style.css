@@ -648,6 +648,7 @@ label {
         flex-direction: column;
         height: 275px;
         margin: 0;
+        border-radius:7px;
     }
 
     .product img {
@@ -659,6 +660,12 @@ label {
     .product h3,
     p {
         font-size: 13px;
+    }
+    .product_info button{
+        width:100%;
+        padding:10px 20px;
+        justify-content:center;
+        font-size:16px;
     }
 
     .search-container {
@@ -708,5 +715,6 @@ label {
 
 
 }
+
 
 
